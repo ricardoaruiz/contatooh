@@ -1,0 +1,8 @@
+Client ID
+e4ab3121f5eb39d36ae5
+
+Client Secret
+4ea18a8b34e960a41b7bec90af0b1d31b590f71f
+
+callback URL
+http://localhost:3000/auth/github/callback
